@@ -1,6 +1,6 @@
 ## About the project
 
-This repository contains the playground functions project developed while studying at Trybe. This project consists of several functions that were created using Javascript.
+This repository contains the playground functions project developed while studying at Trybe. This project consists of several functions that were created using JavaScript.
 
 ## Skills
 
