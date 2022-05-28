@@ -224,7 +224,7 @@ If the array is empty, your function should return 'Empty!'
 
 ## Bonus requirements
 
-### 11 - Create a Phone Number role
+### 11 - Create a function that generates a Phone Number
 
 Create a function called `generatePhoneNumber` that takes an array with 11 numbers and returns a phone number, respecting parentheses, dashes and spaces.
 
