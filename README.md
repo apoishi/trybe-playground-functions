@@ -36,6 +36,10 @@ Make the function only using the `&&` operator.
 
 - Return true when calling the compareTrue function with two parameters of true value
 
+</details>
+
+</details>
+
 ### 2 - Create a function that calculates the area of ​​a triangle
 
 Write a function named `calcArea` that takes a base value (called `base`) and a height value (called `height`) of a triangle and returns the calculation of its area.
