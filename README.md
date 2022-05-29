@@ -6,9 +6,9 @@ This repository contains the playground functions project developed while studyi
 
 - Write JavaScript code that uses variables and primitive types;
 - Use language concepts such as dynamic typing and logical/arithmetic/assignment operators in your code;
-- Create code that uses conditional structures, such as if/else ;
+- Conditional structures, such as if/else ;
 - Manipulate arrays (lists);
-- Use the for command;
+- Use the command for;
 - Breaking big problems into small ones;
 - Use programming logic to solve problems;
 - Manipulate objects;
